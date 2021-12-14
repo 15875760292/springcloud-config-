@@ -1,2 +1,2 @@
 config:
-  info: main #分支名称
+  info: "main" #分支名称
